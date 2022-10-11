@@ -9,4 +9,4 @@ Alguns seres também possuem uma energia e, ao treinarem o uso da energia, passa
 
 ## Tecnologias usadas
 Back-end:
-> Desenvolvido usando: Node.js, TypeScript, Express.
+> Desenvolvido usando: Node.js, TypeScript, Express, Docker.
